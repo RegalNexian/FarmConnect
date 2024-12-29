@@ -42,7 +42,7 @@ import com.soumya.farmconnect.ui.components.BaseBackground
 
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @Composable
-fun FarmerHome(navController: NavHostController) {g
+fun FarmerHome(navController: NavHostController) {
     BaseBackground {
         Column(
             modifier = Modifier.fillMaxSize(),
